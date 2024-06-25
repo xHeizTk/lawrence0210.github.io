@@ -1,0 +1,198 @@
+*{
+    color: #02033B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topwrapper{
+
+    width:1440px;
+    height: 102px;
+    border-style: solid;
+    border-color: yellow;
+    background-color: #000000;
+}
+
+
+.before{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+img[alt=logo]{
+height:54px;
+width: 157px;
+position: relative; 
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    width: 492.23px;
+    border-color: white;
+    margin-left: 410.81px;
+    position: relative; 
+    top:-15px
+  }
+  
+li{
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+    padding-left: 49px;
+}
+
+header{
+
+    width: 1440px;
+    height: 709px;
+    border-style: solid;
+    background-color: #F3F8FF;
+}
+
+
+.textwrapper{
+    height: 461.25px;
+    width: 633.5px;
+    padding-top: 123px;
+    padding-left: 196px;
+    padding-right: 196px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    width: 603.5px;
+    height: 150px;
+    font-size: 55px;
+    color: #02033B;
+}
+h1+p{
+    font-size: 20px;
+}
+h1+p+div{
+    height: 70.5px;
+    
+}
+.buttonwrapper{
+    display: flex;
+}
+button{
+    border-style: solid;
+    border-radius: 25px;
+    height: 54.5px;
+    width: 268.86px;
+    display: flex;
+    margin-left: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 54.5px
+}
+.colored > button{
+    background-color: #FFC247;
+    border-style: none;
+}
+
+button[class="buttontext"]{
+    font-size: 20px;
+    padding-left: 30px;
+    
+    
+}
+img[src="home-header-2.avif"]{
+    height:90%;
+    width: 40%;
+    position: relative; 
+    left: 860px;
+    bottom: 510px;
+    object-fit: cover;
+}
+
+img[src="android-dashboard-certo-2.avif"]{
+    height: 461.25px;
+    width: 241.5px;
+    position: relative; 
+    left: 300px;
+    bottom: 600px;
+    
+}
+main{
+    width: 1440px;
+    height: 709px;
+    border-style: solid;
+    background-color: #FFC247;
+    padding-left: ;
+}
+h2{
+    font-size: 36px;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.msgwrapper{
+    display: flex;
+    
+}
+.messagebox{
+    border-style: solid;
+    width: 25%;
+    height: 255px;
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 50px;
+    text-align: left;
+    vertical-align: middle;
+    padding: 20px;
+    margin-top: 20px;
+}
+p[class="rate"]{
+    color: #FFC247;
+    font-size: 25px;
+}
+
+.sponser{
+    width: 1248px;
+    height: 95px;
+    vertical-align: middle;
+    line-height: 54.5px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 75px;
+    padding-top: 20px;
+}
+img[src="new-york-post-purple-2.svg"]{
+    width: 20%;
+    height: 50%;
+}
+img[src="wired-purple-2.svg"]{
+    width: 20%;
+    height: 50%;
+}
+img[src="readers-digest-purple-2.svg"]{
+    width: 20%;
+    height: 50%;
+}
+img[src="financial-times-purple-2.svg"]{
+    width: 20%;
+    height: 50%;
+}
+img[src="cnbc-purple-2.svg"]{
+    width: auto;
+    height: auto;
+    
+}
+img[src="zd-net-purple-2.svg"]{
+    width: 20%;
+    height: 50%;
+}
+.sponser > div{
+    font-size: 18px;
+    width: 200px;
+    padding-bottom: 30px;
+}
+
+.section{
+
+    width: 1440px;
+    height: 709px;
+    border-style: solid;
+    background-color: #ffffff;
+}
